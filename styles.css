@@ -1,0 +1,19 @@
+* {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: pink;
+    text-align: center;
+}
+
+p {
+    font-weight: bolder;
+    font-size: large;
+}
+
+ul li {
+    list-style: square;
+    text-decoration: none;
+}
