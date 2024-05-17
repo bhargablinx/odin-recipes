@@ -1,9 +1,11 @@
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    /* outline: 2px solid red; */
 }
 
 body {
     background-color: rgb(255, 255, 202);
+    margin: 0px 150px;
 }
 
 h1 {
@@ -20,12 +22,4 @@ h1 {
     color: white;
     text-align: center;
     height: 60px;
-}
-
-a {
-    color: black;
-}
-
-a:hover {
-    color: rgb(255, 0, 0);
 }
