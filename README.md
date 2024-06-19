@@ -1,10 +1,12 @@
 # Odin Recipes
-This is a static recipe website written in HTML containing a few recipes with a home page. This is a assignment given in the odin project while learning HTML. Technically this is my first website.
+This a recipe website build in order improve my HTML, and CSS skills.
+
+I have tried by best to clone [food.com](https://www.food.com/). The credit for the design goes to [food.com](https://www.food.com/)
 
 Stacks used here:
 - HTML
+- CSS
 
 ---
 **Meta information about project**
-- started on: 12-05-2024
-- completed on: 12-05-2024
+- Odin Project: 12-05-2024
